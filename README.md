@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=&fontSize=90" width="100%"/>
 </p>
 
-# Hyuna Kim | 김현아(金炫我)
+# Hyuna Kim | 김현아
 ### Android Developer
 > 
 
