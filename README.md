@@ -1,6 +1,6 @@
 # Hyuna Kim | 김현아
 ### Android Developer
-> Hi, I am a junior software engineer who is interested in Android with Kotlin.
+> Hi, I am a junior software engineer who is interested in <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> with <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>.
 
 - Contact | akxmcse@gmail.com 
 - Blog | https://velog.io/@akimcse
