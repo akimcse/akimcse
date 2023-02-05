@@ -38,8 +38,7 @@
 <br>
 
 ### 🧩 Algorithm skills
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akimcse)](https://solved.ac/akimcse)
+
 
 
 <!--
