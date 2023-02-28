@@ -14,6 +14,9 @@
 <br><br><br>
 
 ### 🎯 Experiences
+#### 2023
+- SKT Devocean Young 2nd | 2023. 03. ~ now
+
 #### 2022
 - Google Developer Student Clubs Ewha 4th core member | 2022. 09. ~ now
 - Woowacourse precourse 5th mobile android course | 2022. 10. ~ 2022. 11.
