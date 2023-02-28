@@ -29,6 +29,7 @@
 <br>
 
 ### 🏆 Awards
+#### GDSC Ewha excellent study (2023)
 #### Ewha Womans University SW start-up contest excellence award (2022)
 #### GDSC Ewha excellent project (2022)
 #### GDSC KR winter hack excellence award (2022)
