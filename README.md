@@ -21,7 +21,7 @@
 #### 2022
 - Google Developer Student Clubs Ewha 4th core member | 2022. 09. ~ now
 - Woowacourse precourse 5th mobile android course | 2022. 10. ~ 2022. 11.
-- EPITA summer program AI course | 2022.07.
+- EPITA (Ecole pour l' Informatique et Les Techniques Avancées) Summer Program AI course | 2022.07.
 - Joint Hackathon for SWUniv 2022 | 2022.06.
 
 #### 2021
