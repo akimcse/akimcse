@@ -16,7 +16,7 @@
 ### 🎯 Experiences
 #### 2023
 - GDG Incheon & Songdo Android Compose Study | 2023. 04. ~ now
-- SKT Devocean Young 2nd | 2023. 03. ~ now
+- SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ now
 
 #### 2022
 - Google Developer Student Clubs Ewha 4th core member | 2022. 09. ~ now
