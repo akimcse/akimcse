@@ -16,11 +16,13 @@
 ### 🎯 Experiences
 #### 2023
 - SKT Devocean Young 2nd | 2023. 03. ~ now
+- GDG Incheon & Songdo Android Compose Study | 2023. 04. ~ now
 
 #### 2022
 - Google Developer Student Clubs Ewha 4th core member | 2022. 09. ~ now
 - Woowacourse precourse 5th mobile android course | 2022. 10. ~ 2022. 11.
 - EPITA summer program AI course | 2022.07.
+- Joint Hackathon for SWUniv 2022 | 2022.06.
 
 #### 2021
 - Google Developer Student Clubs Ewha 3rd member  |  2021. 09. ~ 2022. 07. 
