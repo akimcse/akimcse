@@ -16,7 +16,6 @@
 ### 🎯 Experiences
 #### 2023
 - Women Techmakers Korea 2023 : Dare To Be Staff | 2023. 04.
-- GDG Incheon & Songdo Android Compose Study | 2023. 04. ~ now
 - SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ now
 
 #### 2022
