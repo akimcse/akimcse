@@ -15,21 +15,26 @@
 
 ### 🎯 Experiences
 #### 2023
-- Women Techmakers Korea 2023 : Dare To Be Staff | 2023. 04.
-- SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ now
+Women Techmakers Korea 2023 IWD : Dare To Be Staff | 2023. 04.
+</br></br>
+SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ now
 
 #### 2022
-- Google Developer Student Clubs Ewha 4th core member | 2022. 09. ~ now
-- Woowacourse precourse 5th mobile android course | 2022. 10. ~ 2022. 11.
-- EPITA (Ecole pour l' Informatique et Les Techniques Avancées) Summer Program AI course | 2022.07.
-- Joint Hackathon for SWUniv 2022 | 2022.06.
+Google Developer Student Clubs Ewha 4th core member | 2022. 09. ~ now
+</br></br>
+Woowacourse precourse 5th mobile android course | 2022. 10. ~ 2022. 11.
+</br></br>
+EPITA (Ecole pour l' Informatique et Les Techniques Avancées) Summer Program AI course | 2022.07.
+</br></br>
+Joint Hackathon for SWUniv 2022 | 2022.06.
 
 #### 2021
-- Google Developer Student Clubs Ewha 3rd member  |  2021. 09. ~ 2022. 07. 
-- SOPT(IT venture startup club) 29th android member  |  2021. 09. ~ 2022. 02. 
+Google Developer Student Clubs Ewha 3rd member  |  2021. 09. ~ 2022. 07. 
+</br></br>
+SOPT(IT venture startup club) 29th android member  |  2021. 09. ~ 2022. 02. 
 
 #### 2020
-- Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
+Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
 
 <br>
 
