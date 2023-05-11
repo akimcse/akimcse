@@ -4,7 +4,7 @@
 
 - Contact | akxmcse@gmail.com 
 - Blog | https://velog.io/@akimcse
-- Portfolio | https://sites.google.com/view/hyunas-portfolio
+- Portfolio | [Notion](https://www.notion.so/akimpersonal/Hyuna-Kim-c4f0ba7e6ab54fce95b4a273f8c64816)
 <!-- - Linkedin |  -->
 
 <br>
