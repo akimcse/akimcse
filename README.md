@@ -15,6 +15,8 @@
 
 ### 🎯 Experiences
 #### 2023
+2023 SeSACTHON finalist | 2023. 05. ~ 2023. 06
+</br></br>
 Women Techmakers Korea 2023 IWD : Dare To Be Staff | 2023. 04.
 </br></br>
 SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ now
