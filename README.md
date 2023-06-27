@@ -41,6 +41,7 @@ Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
 <br>
 
 ### 🏆 Awards
+#### Ewha Womans University capstone design project poster session encouragement award (2023)
 #### GDSC Ewha excellent study (2023)
 #### Ewha Womans University Student Web Service Idea Contest (2022)
 #### Ewha Womans University SW start-up contest excellence award (2022)
