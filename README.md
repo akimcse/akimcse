@@ -15,18 +15,20 @@
 
 ### 🎯 Experiences
 #### 2023
+Google Developer Student Clubs Ewha 5th Lead | 2023. 08. ~ now 
+</br></br>
 Junction Asia 2023 Volunteer | 2023. 08.
 </br></br>
 Joint Hackathon for SWUniv 2023 | 2023.06.
 </br></br>
-2023 SeSACTHON finalist | 2023. 05. ~ 2023. 06
+2023 SeSACTHON finalist | 2023. 05. ~ 2023. 06.
 </br></br>
 Women Techmakers Korea 2023 IWD : Dare To Be Staff | 2023. 04.
 </br></br>
 SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ now
 
 #### 2022
-Google Developer Student Clubs Ewha 4th core member | 2022. 09. ~ now
+Google Developer Student Clubs Ewha 4th Core member | 2022. 09. ~ 2022. 07.
 </br></br>
 Woowacourse precourse 5th mobile android course | 2022. 10. ~ 2022. 11.
 </br></br>
@@ -35,7 +37,7 @@ EPITA (Ecole pour l' Informatique et Les Techniques Avancées) Summer Program AI
 Joint Hackathon for SWUniv 2022 | 2022.06.
 
 #### 2021
-Google Developer Student Clubs Ewha 3rd member  |  2021. 09. ~ 2022. 07. 
+Google Developer Student Clubs Ewha 3rd Member  |  2021. 09. ~ 2022. 07. 
 </br></br>
 SOPT(IT venture startup club) 29th android member  |  2021. 09. ~ 2022. 02. 
 
