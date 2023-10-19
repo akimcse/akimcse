@@ -15,6 +15,8 @@
 
 ### 🎯 Experiences
 #### 2023
+Goormthon UNIV Operator & President of Ewha | 2023. 09. ~ now
+</br></br>
 Google Developer Student Clubs Ewha 5th Lead | 2023. 08. ~ now 
 </br></br>
 Junction Asia 2023 Volunteer | 2023. 08.
