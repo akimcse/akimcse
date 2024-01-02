@@ -20,7 +20,7 @@ Snow Flower Hackathon organizer | 2023. 11. ~ 2024. 01.
 #### 2023
 Goormthon UNIV operator & president of Ewha | 2023. 09. ~ 2023. 12.
 </br></br>
-DevFest Cloud 2023 organizer | 2023. 12.
+DevFest Cloud 2023 organizer | 2023. 10. ~ 2023. 12.
 </br></br>
 SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ 2023. 11.
 </br></br>
