@@ -14,10 +14,14 @@
 <br><br><br>
 
 ### 🎯 Experiences
-#### 2023
+#### 2024
 Google Developer Student Clubs Ewha 5th Lead | 2023. 08. ~ now 
+
+#### 2023
 </br></br>
 Goormthon UNIV Operator & President of Ewha | 2023. 09. ~ 2023. 12.
+</br></br>
+SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ 2023. 11.
 </br></br>
 Junction Asia 2023 Volunteer | 2023. 08.
 </br></br>
@@ -26,8 +30,6 @@ Joint Hackathon for SWUniv 2023 | 2023.06.
 2023 SeSACTHON finalist | 2023. 05. ~ 2023. 06.
 </br></br>
 Women Techmakers Korea 2023 IWD : Dare To Be Staff | 2023. 04.
-</br></br>
-SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ now
 
 #### 2022
 Google Developer Student Clubs Ewha 4th Core member | 2022. 09. ~ 2023. 07.
