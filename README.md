@@ -4,8 +4,7 @@
 
 - Contact | akxmcse@gmail.com 
 - Blog | https://velog.io/@akimcse
-- Portfolio | [Notion](https://www.notion.so/akimpersonal/Hyuna-Kim-c4f0ba7e6ab54fce95b4a273f8c64816)
-<!-- - Linkedin |  -->
+- Linkedin | https://www.linkedin.com/in/akxmcse
 
 <br>
 
@@ -50,6 +49,7 @@ Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
 <br>
 
 ### 🏆 Awards
+#### DEVOCEAN YOUNG 2nd Passionate Team Award (2023)
 #### Ewha Womans University capstone design project poster session encouragement award (2023)
 #### GDSC Ewha excellent study (2023)
 #### Ewha Womans University Student Web Service Idea Contest (2022)
