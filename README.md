@@ -18,7 +18,6 @@
 Google Developer Student Clubs Ewha 5th Lead | 2023. 08. ~ now 
 
 #### 2023
-</br></br>
 Goormthon UNIV Operator & President of Ewha | 2023. 09. ~ 2023. 12.
 </br></br>
 SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ 2023. 11.
