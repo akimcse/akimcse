@@ -68,11 +68,6 @@ Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
 #### Hanwha Science Challenge bronze prize (2017)
 <br>
 
-### 🧩 Algorithm skills
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akimcse)](https://solved.ac/akimcse)
-
-
 <!--
 **akimcse/akimcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
