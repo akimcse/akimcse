@@ -47,7 +47,7 @@ Joint Hackathon for SWUniv 2022 | 2022.06.
 #### 2021
 Google Developer Student Clubs Ewha 3rd member  |  2021. 09. ~ 2022. 07. 
 </br></br>
-SOPT(IT venture startup club) 29th android member  |  2021. 09. ~ 2022. 02. 
+SOPT(IT venture startup club) 29th android member  |  2021. 09. ~ 2022. 01. 
 
 #### 2020
 Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
