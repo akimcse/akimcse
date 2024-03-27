@@ -14,6 +14,8 @@
 
 ### 🎯 Experience
 #### 2024
+AWS Cloud Clubs Ewha | 2024. 03. ~ now
+</br></br>
 Google Developer Student Clubs Ewha 5th Lead | 2023. 08. ~ now 
 </br></br>
 Snow Flower Hackathon organizer | 2023. 11. ~ 2024. 01.
