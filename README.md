@@ -68,7 +68,11 @@ Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
 #### SOPT AppJam excellence award (2022)
 #### LikeLion Herethon groundbreaking function award (2020)
 #### Hanwha Science Challenge bronze prize (2017)
+
 <br>
+
+### 📚Publications
+[The Study of Realistic Virtual Glasses Wearing Using Technology Combination of ARCore and Video Inpainting Artificial Intelligence](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701484) (2023)
 
 <!--
 **akimcse/akimcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
