@@ -1,4 +1,4 @@
-# Hyuna Kim | 김현아
+# Hyuna Kim 김현아
 ### Android Developer
 > Hi, I am a junior software engineer who is interested in Android with Kotlin.
 
