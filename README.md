@@ -62,7 +62,7 @@ Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
 <br>
 
 ### 🏆 Awards
-#### [GDSC Solution Challenge Global top 100](https://developers.google.com/community/gdsc-solution-challenge/winners) (2024)
+#### [GDSC Solution Challenge Global top 10](https://developers.google.com/community/gdsc-solution-challenge/winners) (2024)
 #### [Ewha engineering capstone design contest bronze prize](http://cms.ewha.ac.kr/user/indexSub.action?framePath=unknownboard&siteId=abeek&dum=dum&boardId=5725888&page=1&command=view&boardSeq=75673376&chkBoxSeq=&year=2024&month=4&startDate=&endDate=&categoryDepth=&search=공학소양&column=total) (2023)
 #### DEVOCEAN YOUNG 2nd Passionate Team Award (2023)
 #### Ewha Womans University capstone design project poster session encouragement award (2023)
