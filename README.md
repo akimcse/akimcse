@@ -13,7 +13,8 @@
 <br><br><br>
 
 ### 💻 Experiences
-#### NAVER Corp. Tech Research Intern | 2024. 05. ~ now
+#### NAVER Corp. Tech Researcher | 2024. 08. ~ now
+#### NAVER Corp. Tech Research Intern | 2024. 05. ~ 2024. 07.
 
 </br>
 
@@ -62,18 +63,20 @@ Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
 <br>
 
 ### 🏆 Awards
-#### [GDSC Solution Challenge Global top 10](https://developers.google.com/community/gdsc-solution-challenge/winners) (2024)
-#### [Ewha engineering capstone design contest bronze prize](http://cms.ewha.ac.kr/user/indexSub.action?framePath=unknownboard&siteId=abeek&dum=dum&boardId=5725888&page=1&command=view&boardSeq=75673376&chkBoxSeq=&year=2024&month=4&startDate=&endDate=&categoryDepth=&search=공학소양&column=total) (2023)
+#### The 1st National University SW Performance Forum Grand Award (2024)
+#### The 1st National University SW Performance Forum Best Presentation Award (2024)
+#### [GDSC Solution Challenge Global Top 10](https://developers.google.com/community/gdsc-solution-challenge/winners) (2024)
+#### [Ewha Engineering capstone Design Contest Bronze Award](http://cms.ewha.ac.kr/user/indexSub.action?framePath=unknownboard&siteId=abeek&dum=dum&boardId=5725888&page=1&command=view&boardSeq=75673376&chkBoxSeq=&year=2024&month=4&startDate=&endDate=&categoryDepth=&search=공학소양&column=total) (2023)
 #### DEVOCEAN YOUNG 2nd Passionate Team Award (2023)
-#### Ewha Womans University capstone design project poster session encouragement award (2023)
-#### GDSC Ewha excellent study (2023)
-#### Ewha Womans University student web service idea contest (2022)
-#### Ewha Womans University SW start-up contest excellence award (2022)
-#### GDSC Ewha excellent project (2022)
-#### [GDSC KR winter hack excellence award](https://gdsckoreahackathon2022.github.io/#/prize) (2022)
-#### SOPT AppJam excellence award (2022)
-#### LikeLion Herethon groundbreaking function award (2020)
-#### [Hanwha Science Challenge bronze prize](https://www.sciencechallenge.or.kr/result/paper.hsc?searchMasterCode=170905102003801TP0QH) (2017)
+#### Ewha Womans University Capstone Design Project Poster Session Encouragement Award (2023)
+#### GDSC Ewha Excellent Study (2023)
+#### Ewha Womans University Student Web Service Idea Contest (2022)
+#### Ewha Womans University SW Start-up Contest Excellence Award (2022)
+#### GDSC Ewha Excellent Project (2022)
+#### [GDSC KR winter Hack Excellence Award](https://gdsckoreahackathon2022.github.io/#/prize) (2022)
+#### SOPT AppJam Excellence Award (2022)
+#### LikeLion Herethon Groundbreaking Function Award (2020)
+#### [Hanwha Science Challenge Bronze Award](https://www.sciencechallenge.or.kr/result/paper.hsc?searchMasterCode=170905102003801TP0QH) (2017)
 
 <br>
 
