@@ -63,6 +63,7 @@ Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
 <br>
 
 ### 🏆 Awards
+#### Tech4good Hackathon Best Award (2024)
 #### The 1st National University SW Performance Forum Grand Award (2024)
 #### The 1st National University SW Performance Forum Best Presentation Award (2024)
 #### [GDSC Solution Challenge Global Top 10](https://developers.google.com/community/gdsc-solution-challenge/winners) (2024)
