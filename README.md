@@ -13,25 +13,25 @@
 <br><br><br>
 
 ### 💻 Experiences
-#### NAVER Corp. Tech Researcher | 2024. 08. ~ now
-#### NAVER Corp. Tech Research Intern | 2024. 05. ~ 2024. 07.
+#### NAVER Corp. Tech Researcher | 2024. 08. - now
+#### NAVER Corp. Tech Research Intern | 2024. 05. - 2024. 07.
 
 </br>
 
 ### 🎯 Dev Activities
 #### 2024
-AWS Cloud Clubs Ewha | 2024. 03. ~ now
+AWS Cloud Clubs Ewha | 2024. 03. - 2024. 08.
 </br></br>
-Google Developer Student Clubs Ewha 5th Lead | 2023. 08. ~ now 
+Google Developer Student Clubs Ewha 5th Lead | 2023. 08. - 2024. 07.
 </br></br>
-Snow Flower Hackathon organizer | 2023. 11. ~ 2024. 01.
+Snow Flower Hackathon organizer | 2023. 11. - 2024. 01.
 
 #### 2023
-Goormthon UNIV operator & president of Ewha | 2023. 09. ~ 2023. 12.
+Goormthon UNIV operator & president of Ewha | 2023. 09. - 2023. 12.
 </br></br>
-DevFest Cloud 2023 organizer | 2023. 10. ~ 2023. 12.
+DevFest Cloud 2023 organizer | 2023. 10. - 2023. 12.
 </br></br>
-SKT DEVOCEAN YOUNG 2nd | 2023. 03. ~ 2023. 11.
+SKT DEVOCEAN YOUNG 2nd | 2023. 03. - 2023. 11.
 </br></br>
 2023 SW Talent Festival | 2023. 11.
 </br></br>
@@ -44,21 +44,21 @@ Joint Hackathon for SWUniv 2023 | 2023.06.
 Women Techmakers Korea 2023 IWD : Dare To Be Staff | 2023. 04.
 
 #### 2022
-Google Developer Student Clubs Ewha 4th core member | 2022. 09. ~ 2023. 07.
+Google Developer Student Clubs Ewha 4th core member | 2022. 09. - 2023. 07.
 </br></br>
-Woowacourse precourse 5th mobile android course | 2022. 10. ~ 2022. 11.
+Woowacourse precourse 5th mobile android course | 2022. 10. - 2022. 11.
 </br></br>
 EPITA (Ecole pour l' Informatique et Les Techniques Avancées) Summer Program AI course | 2022.07.
 </br></br>
 Joint Hackathon for SWUniv 2022 | 2022.06.
 
 #### 2021
-Google Developer Student Clubs Ewha 3rd member  |  2021. 09. ~ 2022. 07. 
+Google Developer Student Clubs Ewha 3rd member  |  2021. 09. - 2022. 07. 
 </br></br>
-SOPT(IT venture startup club) 29th android member  |  2021. 09. ~ 2022. 01. 
+SOPT(IT venture startup club) 29th android member  |  2021. 09. - 2022. 01. 
 
 #### 2020
-Like Lion Ewha(Web programming club) 8th member  |  2020. 03. ~ 2020. 12.
+Like Lion Ewha(Web programming club) 8th member  |  2020. 03. - 2020. 12.
 
 <br>
 
