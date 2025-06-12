@@ -13,7 +13,7 @@
 <br><br><br>
 
 ### 💻 Experiences
-#### NAVER Corp. Tech Researcher | 2024. 08. - now
+#### NAVER Corp. Tech Researcher | 2024. 08. - 2025. 02.
 #### NAVER Corp. Tech Research Intern | 2024. 05. - 2024. 07.
 
 </br>
