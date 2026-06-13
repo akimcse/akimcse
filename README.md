@@ -1,86 +1,74 @@
-# Hyuna Kim 김현아
-### Android Developer
-> Hello, I'm Hyuna Kim, an enthusiastic Android developer.
+# Hi, I'm Hyuna Kim 👋
 
-- Contact | akxmcse@gmail.com 
-- Blog | https://velog.io/@akimcse
-- Linkedin | https://www.linkedin.com/in/akxmcse
+**Solution Engineer @ Microsoft** · Seoul, South Korea
 
-<br>
+> 💫 Passionate about connecting people and technology to turn complex challenges into meaningful solutions.
 
-### ⚙️ Stack
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=Unity&logoColor=white"/>
-<br><br><br>
+I believe that while developers focus on *solving* problems, solution engineers begin by *defining what the real problem is* — understanding a customer's business context and technical environment, then designing the best solution across diverse technologies. My goal is to grow into someone who translates **complexity into clarity** and **technology into meaningful impact**.
 
-### 💻 Experiences
-#### NAVER Corp. Tech Researcher | 2024. 08. - 2025. 02.
-#### NAVER Corp. Tech Research Intern | 2024. 05. - 2024. 07.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akxmcse-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akxmcse/)
 
-</br>
+---
 
-### 🎯 Dev Activities
-#### 2024
-AWS Cloud Clubs Ewha | 2024. 03. - 2024. 08.
-</br></br>
-Google Developer Student Clubs Ewha 5th Lead | 2023. 08. - 2024. 07.
-</br></br>
-Snow Flower Hackathon organizer | 2023. 11. - 2024. 01.
+## 💼 Experience
 
-#### 2023
-Goormthon UNIV operator & president of Ewha | 2023. 09. - 2023. 12.
-</br></br>
-DevFest Cloud 2023 organizer | 2023. 10. - 2023. 12.
-</br></br>
-SKT DEVOCEAN YOUNG 2nd | 2023. 03. - 2023. 11.
-</br></br>
-2023 SW Talent Festival | 2023. 11.
-</br></br>
-Junction Asia 2023 volunteer | 2023. 08.
-</br></br>
-Joint Hackathon for SWUniv 2023 | 2023.06.
-</br></br>
-2023 SeSACTHON finalist | 2023. 05. ~ 2023. 06.
-</br></br>
-Women Techmakers Korea 2023 IWD : Dare To Be Staff | 2023. 04.
+**Solution Engineer** — Microsoft `@Security` · *Feb 2026 – Present* · Seoul
 
-#### 2022
-Google Developer Student Clubs Ewha 4th core member | 2022. 09. - 2023. 07.
-</br></br>
-Woowacourse precourse 5th mobile android course | 2022. 10. - 2022. 11.
-</br></br>
-EPITA (Ecole pour l' Informatique et Les Techniques Avancées) Summer Program AI course | 2022.07.
-</br></br>
-Joint Hackathon for SWUniv 2022 | 2022.06.
 
-#### 2021
-Google Developer Student Clubs Ewha 3rd member  |  2021. 09. - 2022. 07. 
-</br></br>
-SOPT(IT venture startup club) 29th android member  |  2021. 09. - 2022. 01. 
+**Data Analyst Intern** — PTKOREA `@Tech-Data-Division` · *Oct 2025 – Feb 2026*
+- Resolved customer-reported BI data issues by identifying root causes and coordinating with stakeholders
+- Drove data accuracy through regular alignment meetings with regional and client teams
+- Mapped unusual data patterns to internal schemas, bridging business context
 
-#### 2020
-Like Lion Ewha(Web programming club) 8th member  |  2020. 03. - 2020. 12.
+**Technical Research Intern** — NAVER Corp `@D2SF` · *May 2024 – Feb 2025*
+- Researched global tech trends and translated technical insights into long-term strategy inputs
+- Delivered weekly briefings and executive-level reports for non-technical stakeholders
+- Conducted technical evaluations of startup products to support investment decisions
 
-<br>
+## 🎓 Education
 
-### 🏆 Awards
-#### Ewha Womans University Challenge Semester Excellence Award (2025)
-#### Tech4good Hackathon Best Award (2024)
-#### The 1st National University SW Performance Forum Grand Award (2024)
-#### The 1st National University SW Performance Forum Best Presentation Award (2024)
-#### [GDSC Solution Challenge Global Top 10](https://developers.google.com/community/gdsc-solution-challenge/winners) (2024)
-#### [Ewha Engineering capstone Design Contest Bronze Award](http://cms.ewha.ac.kr/user/indexSub.action?framePath=unknownboard&siteId=abeek&dum=dum&boardId=5725888&page=1&command=view&boardSeq=75673376&chkBoxSeq=&year=2024&month=4&startDate=&endDate=&categoryDepth=&search=공학소양&column=total) (2023)
-#### DEVOCEAN YOUNG 2nd Passionate Team Award (2023)
-#### Ewha Womans University Capstone Design Project Poster Session Encouragement Award (2023)
-#### GDSC Ewha Excellent Study (2023)
-#### Ewha Womans University Student Web Service Idea Contest (2022)
-#### Ewha Womans University SW Start-up Contest Excellence Award (2022)
-#### GDSC Ewha Excellent Project (2022)
-#### [GDSC KR winter Hack Excellence Award](https://gdsckoreahackathon2022.github.io/#/prize) (2022)
-#### SOPT AppJam Excellence Award (2022)
-#### LikeLion Herethon Groundbreaking Function Award (2020)
-#### [Hanwha Science Challenge Bronze Award](https://www.sciencechallenge.or.kr/result/paper.hsc?searchMasterCode=170905102003801TP0QH) (2017)
+- **Ewha Womans University** — B.S. in Computer Science and Engineering · *2020 – 2025*
+- **EPITA** (École pour l'Informatique et les Techniques Avancées) — Summer Program, Artificial Intelligence · *2022*
 
-<br>
+## 🏆 Honors & Awards
 
-### 📚Publications
-[The Study of Realistic Virtual Glasses Wearing Using Technology Combination of ARCore and Video Inpainting Artificial Intelligence](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701484) (2023)
+| Award | Issuer | Date |
+| --- | --- | --- |
+| Challenge Semester Excellence Award | Ewha Womans University | Jan 2025 |
+| Tech4Good Hackathon — Best Award | SK Telecom · Hana Financial Group | Aug 2024 |
+| 1st National University SW Performance Forum — **Grand Award** | Dong-A Univ. SW Innovation Center | Aug 2024 |
+| 1st National University SW Performance Forum — Best Presentation | Dong-A Univ. SW Innovation Center | Aug 2024 |
+| **GDSC Solution Challenge — Global Top 10** 🌍 | Google | May 2024 |
+| GDSC Solution Challenge — Global Top 100 | Google | Apr 2024 |
+| Engineering Capstone Design Contest — Bronze | Ewha Womans University | Dec 2023 |
+| DEVOCEAN YOUNG 2nd — Passionate Team Award | SK Telecom | Nov 2023 |
+| Capstone Design Poster Session — Encouragement | Ewha Womans University | Jun 2023 |
+| SW Start-up Contest — Excellence Award | Ewha Womans University | Nov 2022 |
+
+## 🚀 Projects
+
+- **DONUT** (2024) — Gifticon donation service for low-income teenagers. *Android · Kotlin · Firebase · ML Kit · CameraX · Google Map · FCM · MVVM.* 🏅 **GDSC Solution Challenge 2024 Global Top 10**; built 20+ screens solo in one month, with ML Kit Text Recognition for authentication. → [GitHub](https://github.com/Donut-DONationUTile/Donut_Android)
+- **CareSpoon** (2023) — Eating-habit monitoring with meal-image analysis for seniors. *Android · Kotlin · Firebase · CameraX · MVVM.* → [GitHub](https://github.com/CareSpoon/CareSpoon_Android)
+- **SeeMeet** (2021–2022) — Appointment & schedule management app, released on Google Play Store. *Android · Kotlin · Firebase · MVVM.* → [GitHub](https://github.com/TeamSeeMeet/SeeMeet-Android)
+- **Easy Peasy** (2022) — App tackling "dark data" by managing e-mail for environmental impact. *Android · Kotlin · Retrofit2.* GDSC Solution Challenge 2022. → [GitHub](https://github.com/ah-ha-dev/32_EasyPeasy)
+
+## 🌱 Community & Leadership
+
+- **Google Developer Student Clubs (GDSC) Ewha** — Member (3rd) → Core Member (4th) → **Lead (5th)** · *2021 – 2024*
+- **Goormthon UNIV 1st** — Operator / President of Ewha · *2023*
+- **SKT DEVOCEAN YOUNG 2nd** — Tech Influencer (monthly outstanding contributor) · *2023*
+- **AWS Cloud Clubs Ewha 2nd** — Member · *2024*
+- **SOPT 29th** — Android YB Member · *2021 – 2022*
+- **Like Lion (멋쟁이사자처럼) Ewha 8th** — Member · *2020*
+
+## 🤝 Volunteering
+
+- **Judge** — GDGoC SECE Codeathon (India) · *Feb 2025*
+- **Organizer** — Snow Flower Hackathon, GDSC · *2023 – 2024*
+- **Organizer** — DevFest Cloud 2023, GDG Cloud Korea
+- **Volunteer** — JUNCTION ASIA 2023
+- **Staff** — Women Techmakers Korea 2023
+
+## 📝 Publications
+
+- *The Study of Realistic Virtual Glasses Wearing Using a Technology Combination of ARCore and Video Inpainting AI* — **ICEIC** (International Conference on Electronics, Information, and Communication) · Nov 2023
