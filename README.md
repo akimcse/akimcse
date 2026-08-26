@@ -1,4 +1,4 @@
-# Hi, I'm Hyuna Kim 👋
+Hyuna Kim
 
 **Solution Engineer @ Microsoft** · Seoul, South Korea
 
@@ -71,4 +71,4 @@ I believe that while developers focus on *solving* problems, solution engineers 
 
 ## 📝 Publications
 
-- *The Study of Realistic Virtual Glasses Wearing Using a Technology Combination of ARCore and Video Inpainting AI* — **ICEIC** (International Conference on Electronics, Information, and Communication) · Nov 2023
+- *The Study of Realistic Virtual Glasses Wearing Using a Technology Combination of ARCore and Video Inpainting AI* — **IEIE** → [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11701484)_
